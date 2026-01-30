@@ -7,7 +7,7 @@ No login, no signup, and no app installation required.
 ---
 
 ## 🌐 Live Website
-👉 https://shareby.in
+👉 https://shareby.io
 
 ---
 
